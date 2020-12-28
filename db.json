@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Read book",
+            "description": "Learning how to build a project with redux saga",
+            "status": 0
+        },
+        {
+            "id": 2,
+            "title": "Play guitar with my crush",
+            "description": "How to play guitar with my crush",
+            "status": 1
+        },
+        {
+            "id": 3,
+            "title": "Coding in my life",
+            "description": "How to not do but have eaten",
+            "status": 2
+        }
+    ]
+}
